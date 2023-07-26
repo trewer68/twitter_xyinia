@@ -1,2 +1,2 @@
 # twitter_xyinia
-бля)
+install - https://github.com/trewer68/twitter_xyinia/raw/main/script.user.js
