@@ -15,7 +15,7 @@
   'use strict';
 
     setTimeout(function() {
-        document.getElementsByClassName("css-901oao css-16my406 css-1hf3ou5 r-poiln3 r-1inkyih r-rjixqe r-bcqeeo r-qvutc0")[0].innerHTML = "уйня"
+        document.getElementsByClassName("css-1qaijid r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-qvutc0 r-poiln3 r-ubezar r-hjklzo")[0].innerHTML = "уйня"
     }, 800);
 
     // Your code here...
