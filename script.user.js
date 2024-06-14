@@ -16,7 +16,7 @@
 
     setTimeout(function() {
         document.getElementsByClassName("css-1qaijid r-dnmrzs r-1udh08x r-3s2u2q r-bcqeeo r-qvutc0 r-poiln3 r-ubezar r-hjklzo")[0].innerHTML = "уйня"
-    }, 800);
+    }, 5000);
 
     // Your code here...
 })();
