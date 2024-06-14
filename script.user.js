@@ -5,6 +5,7 @@
 // @description  .
 // @author       trewer68
 // @match        https://twitter.com/*
+// @match        https://x.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @updateURL    https://github.com/trewer68/twitter_xyinia/script.user.js
 // @downloadURL  https://github.com/trewer68/twitter_xyinia/script.user.js
